@@ -1,0 +1,111 @@
+{
+  "Oversight": [
+    {
+      "username": "Foxbro37",
+      "department": "Creative Lead"
+    },
+    {
+      "username": "Bionictornado90",
+      "department": "Advisor"
+    },
+    {
+      "username": "dreamyaudreyyy",
+      "department": "Project Oversight"
+    },
+    {
+      "username": "doop931",
+      "department": "Adminstrative Director"
+    },
+  ],
+  
+  "Project Leads": [
+    {
+      "username": "Koul_WronglyPunished",
+      "department": "Administrative Lead"
+    },
+    {
+      "username": "NIL",
+      "department": "Building Lead"
+    },
+    {
+      "username": "AlexanderDarmody",
+      "department": "Scripting Lead"
+    },
+    {
+      "username": "Lost_Poladean",
+      "department": "Modeling Lead"
+    },
+    {
+      "username": "wainuiboy123",
+      "department": "UI Lead"
+    }
+  ],
+  
+  "Senior Developers": [
+    {
+      "username": "Koul_WronglyPunished",
+      "department": "Scripting"
+    },
+    {
+      "username": "Marccgms",
+      "department": "Modeling"
+    }
+  ],
+  
+  "Developers": [
+  ],
+
+  "Senior Contributors": [
+    {
+      "username": "realpancakeyay",
+      "department": "Animation / Building"
+    },
+    {
+      "username": "coolnesspinetree",
+      "department": "Music"
+    },
+    {
+      "username": "JuuzoIsAGoat",
+      "department": "Art / Logistics"
+    }
+  ],
+
+  "Contributors": [
+    {
+      "username": "0xA11C",
+      "department": "Scripting"
+    },
+    {
+      "username": "SzymonM06",
+      "department": "Scripting"
+    },
+    {
+      "username": "wallayed",
+      "department": "OST"
+    },
+    {
+      "username": "gamerman200277",
+      "department": "Building"
+    },
+    {
+      "username": "GiantDefender427",
+      "department": "Scripting"
+    },
+    {
+      "username": "r00t_null",
+      "department": "Building"
+    },
+    {
+      "username": "gilerma000",
+      "department": "Animation"
+    },
+    {
+      "username": "Tirvane",
+      "department": "Building"
+    },
+    {
+      "username": "adamkokl1562",
+      "department": "Animation"
+    }
+  ]
+}
